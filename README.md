@@ -38,4 +38,4 @@
 ---
 
 ## 🎥 Gameplay Video Showcase
-[▶️ คลิกที่นี่เพื่อรับชมวิดีโอ Gameplay ความยาวเต็มบน YouTube](https://youtu.be/SyMb4hfhcBs)
+[▶️ คลิกที่นี่เพื่อรับชมวิดีโอตัวอย่าง Gameplay บน YouTube](https://youtu.be/SyMb4hfhcBs)
