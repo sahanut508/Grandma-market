@@ -35,7 +35,7 @@
 ---
 
 ## 🎥 Gameplay Video Showcase
-*(ลากไฟล์วิดีโอ .mp4 มาวางตรงบรรทัดนี้)*
+https://youtu.be/SyMb4hfhcBs
 
 
 
