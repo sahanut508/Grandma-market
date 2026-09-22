@@ -10,7 +10,8 @@
 
 - **🛒 ร้านค้าและ สินค้า** พื้นที่สำหรับจัดวางสินค้าประเภทต่างๆ ที่ผู้เล่นต้องคอยเติมของและหยิบให้ลูกค้า
 
-[](image.png)
+<img width="668" height="497" alt="image" src="https://github.com/user-attachments/assets/f7321a61-59fe-4a3b-ad23-16f56dc4fca8" />
+
 
 - **🧍‍♂️ ระบบลูกค้า NPC (Customer Demand System):** ลูกค้าจะเดินเข้าร้านพร้อมกับแสดงความต้องการสินค้าและเกจเวลารอคอย (Patience Bar)
 - **⏱️ ระบบจัดการเวลา (Time & Patience Mechanics):** หากลูกค้ารอนานเกินไป ระดับความพึงพอใจจะลดลงและออกจากร้านโดยไม่จ่ายเงิน
@@ -19,5 +20,5 @@
 
 ## 🎥 Gameplay Video Showcase
 
-Uploading 2026-09-09 01-57-49.mp4…
+
 
