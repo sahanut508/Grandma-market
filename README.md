@@ -17,7 +17,8 @@
 - ลังน้ำยาล้างจาน
 - ลังยาสระผม
 
-<img width="668" height="497" alt="Shop & Items Area" src="https://github.com/user-attachments/assets/f7321a61-59fe-4a3b-ad23-16f56dc4fca8" />
+<img width="668" height="497" alt="กล่องแอปเปิล" src="https://github.com/user-attachments/assets/8384a761-91f8-4493-8ff9-2f9707a3adf5" />
+
 
 **🎮 Controls & Interaction:**
 - กด **E** เมื่อเข้าใกล้ลังสินค้าเพื่อยกลัง
