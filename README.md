@@ -21,8 +21,7 @@
 
 **🎮 Controls & Interaction:**
 - กด **E** เมื่อเข้าใกล้ลังสินค้าเพื่อยกลัง
-- กด **F** เพื่อวางกล่อง
-- กดปฏิสัมพันธ์เมื่ออยู่ใกล้ NPC เพื่อส่งมอบสินค้าที่ต้องการ
+- กด **F** เพื่อวางกล่อง แต่หากกดเมื่ออยู่ใกล้ NPC จะเป็นการส่งมอบสินค้าที่ต้องการแทน
 
 <img width="540" height="303" alt="Gameplay Controls Demo" src="https://github.com/user-attachments/assets/991d7c5c-2de9-4e8b-b9ac-24673606ca39" />
 
